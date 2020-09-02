@@ -1,0 +1,40 @@
+---
+layout:     post
+title:      "Hello 2020"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2020-09-02 12:00:00
+author:     "gaojing"
+header-img: "img/post-bg-dreamer.jpg"
+catalog: true
+tags:
+    - 学习记录
+---
+
+<!-- > “学习记录” -->
+
+
+我 的 Blog 开通了啦。
+
+[学习记录](#build) 
+
+2020年，今年也苦也甜。
+
+
+<p id = "build"></p>
+
+#### 正文  
+
+今天突发奇想，想快速创建一个自己的博客，主要参考： [基于 Github 搭建个人博客全过程详解](https://www.dazhuanlan.com/2019/10/18/5da8c9e701fec/)
+
+**9月目标**
+
+* 学会**React**
+* 坚持背单词哦
+* **Vue原理**记得复习
+* 读书《战争与和平》
+
+
+
+---
+
+
