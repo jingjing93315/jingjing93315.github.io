@@ -1,2 +1,2 @@
 # jingjing93315.github.io
-Github搭建个人博客
+搭建个人博客
